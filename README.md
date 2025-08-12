@@ -32,7 +32,7 @@
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-azhar-0b8746374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayeshaazhar5404@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayeshaazharr2004@gmail.com)
 
 ---
 
